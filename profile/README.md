@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SCD-Labs/.github/Logo-21-giu-2026-16_53_07.png" alt="SCD Labs Logo" width="300">
+  <img src="Logo-21-giu-2026-16_53_07.png" alt="SCD Labs Logo" width="300">
 </p>
 
 ## Hi there 👋
