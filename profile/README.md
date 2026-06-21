@@ -2,9 +2,10 @@
   <img src="Logo-21-giu-2026-16_53_07.png" alt="SCD Labs Logo" width="300">
 </p>
 
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
